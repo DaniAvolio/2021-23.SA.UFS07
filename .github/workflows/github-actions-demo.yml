@@ -24,4 +24,5 @@ jobs:
             cd proj_frontend
             nvm install
             nvm use
+            npm install
       
