@@ -21,5 +21,4 @@ jobs:
             cd proj front end
             nvm install
             nvm use
-
       
