@@ -17,6 +17,8 @@ jobs:
       - run: echo "🍏 This job's status is ${{ job.status }}."
       - name: nvm setup
         run: |
+            curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
+
             cd proj front end
             nvm install
             nvm use
