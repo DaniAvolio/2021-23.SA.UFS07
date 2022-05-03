@@ -25,4 +25,10 @@ jobs:
             nvm install
             nvm use
             npm install
+            npm run build
+          - name: Upload the artifact
+            uses: actions/upload-artifact@v2
+            with:
+              name: artefatto
+              path: ./proj_frontend/dist
       
