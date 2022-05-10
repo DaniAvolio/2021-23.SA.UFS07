@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](https://github.com/DaniAvolio/2021-23.SA.UFS07/compare/v1.1.0...v1.2.0) (2022-05-10)
+
+
+### Features
+
+* add in deploy my surge site ([79f7094](https://github.com/DaniAvolio/2021-23.SA.UFS07/commit/79f709490fa597dac4c73384eafc47c838aa1cea))
+* add in readme th url ([f410bd9](https://github.com/DaniAvolio/2021-23.SA.UFS07/commit/f410bd998242ae890c0ededc24b40ceab4f25187))
+
 ## 1.1.0 (2022-05-10)
 
 
